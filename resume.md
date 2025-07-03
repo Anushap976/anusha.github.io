@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 Resume
-
+[Download my resume (PDF)](/assets/resume.pdf)
 
 Achievements
 - 4+ years in SAP ABAP development
