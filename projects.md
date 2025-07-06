@@ -11,7 +11,7 @@ permalink: /projects/
 
 An accessible, interactive web app for children to read stories with audio narration.
 
-<img src="/assets/images/storybookapp.png" alt="Storybook App Screenshot" style="max-width: 1000px; border: 1px solid #ddd; border-radius: 8px; margin-top: 1rem;">
+<img src="{{ site.baseurl }}/assets/images/storybookapp.png" alt="Storybook App Screenshot" style="max-width: 1000px; border: 1px solid #ddd; border-radius: 8px; margin-top: 1rem;">
 
 **Key Features:**
 - Multiple pages with story content
