@@ -3,6 +3,7 @@ description: A personal portfolio to showcase my projects and resume
 theme: minima
 
 baseurl: "/anusha.github.io"
+permalink: /:title/
 
 header_pages:
   - index.md
