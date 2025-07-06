@@ -1,0 +1,12 @@
+# Jekyll output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
