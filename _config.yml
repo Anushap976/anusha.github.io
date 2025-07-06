@@ -1,3 +1,11 @@
-title: My Portfolio
-description: Built with Jekyll and GitHub Pages
-theme: jekyll-theme-minimal
+title: Anusha's Portfolio
+description: A personal portfolio to showcase my projects and resume
+theme: minima
+
+baseurl: "/anusha.github.io"
+
+header_pages:
+  - index.md
+  - resume.md
+  - projects.md
+  - contact.md

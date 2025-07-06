@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact Me
+# Contact
 
-I'd love to hear from you!
+I'd love to connect!
 
--[your.email@example.com](anusha.akshintalalc@gmail.com)
--[LinkedIn](https://www.linkedin.com/in/anusha-akshintala-024b3936a/)
--[GitHub](https://github.com/Anushap976)
+- 📧 [anusha.akshintalalc@gmail.com](mailto:anusha.akshintalalc@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anusha-akshintala-024b3936a/)
+- 💻 [GitHub](https://github.com/Anushap976)

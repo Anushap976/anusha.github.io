@@ -3,13 +3,17 @@ layout: default
 title: Home
 ---
 
-Hello, I am Anusha 
-I am a Full stack developer having strong skills in technologies like Javascript, React, Mysql, SprintBoot, Java
+# Hello, I'm Anusha
 
-Skills
-- JavaScript, React, HTML, CSS
-- MySQL, Git, GitHub
-- SAP ABAP, ERP Interfaces
+I am a **Full-Stack Developer** specializing in JavaScript, React, and MySQL. I also have professional experience in SAP ABAP and ERP interfaces.
 
-Career Goal
-Looking for a collaborative software engineering role to build real-world applications and grow as a developer.
+## About Me
+
+With a background in ERP development and a passion for modern web technologies, I focus on building accessible, user-friendly applications. I'm eager to contribute to collaborative teams and grow as a developer.
+
+## Technical Skills
+
+- **Front-End:** JavaScript, React, HTML, CSS
+- **Back-End:** MySQL, Java, Spring Boot
+- **ERP:** SAP ABAP, Interface Development
+- **Tools:** Git, GitHub

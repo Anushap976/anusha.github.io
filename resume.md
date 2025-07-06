@@ -4,10 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
-Resume
-[Download my resume (PDF)](/assets/resume.pdf)
+# Resume
 
-Achievements
-- 4+ years in SAP ABAP development
-- Completed LaunchCode Full-Stack Web Development
-- Developed accessible and interactive web projects
+👉 [**Download My Resume (PDF)**](/assets/resume.pdf)
+
+## Highlights
+
+- 4+ years of professional experience in SAP ABAP development
+- Completed LaunchCode Full-Stack Web Development program
+- Built accessible, interactive React applications
+- Skilled in modern development workflows and Git version control
