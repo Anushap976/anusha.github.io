@@ -2,7 +2,7 @@ title: Anusha's Portfolio
 description: A personal portfolio to showcase my projects and resume
 theme: minima
 
-baseurl: "/anushap976.github.io"
+baseurl: ""
 permalink: /:title/
 
 header_pages:
