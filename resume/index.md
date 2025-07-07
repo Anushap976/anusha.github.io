@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-👉 [**Download My Resume (PDF)**](/assets/resume.pdf)
+👉 [**Download My Resume (PDF)**]({{ '/assets/resume.pdf' | relative_url }})
 
 ## Highlights
 
