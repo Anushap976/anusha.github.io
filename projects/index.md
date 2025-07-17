@@ -13,6 +13,7 @@ Interactive Story Book is a web app that offers an engaging, educational reading
 
 <img src="{{ site.baseurl }}/assets/images/storybookapp.png" alt="Storybook App Screenshot" style="max-width: 800px; border: 1px solid #ddd; border-radius: 8px; margin-top: 1rem;">
 
+
 **Technologies Used:** React, JavaScript, HTML, CSS
 
 **Live Demo**: [Visit App](https://anushap976.github.io/Interactive_StoryBook-Anusha-A/)    
